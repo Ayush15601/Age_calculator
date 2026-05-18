@@ -30,9 +30,17 @@ section{
     text-align: center;
 }
 
+.formm{
+    display: flex;
+    flex-direction: column;
+    row-gap: 1rem
+}
+
 .btn{
     background-color: grey;
     cursor: pointer;
+    width: 18rem;
+    height: 2rem;
 }
 
 
