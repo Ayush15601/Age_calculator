@@ -11,10 +11,6 @@ html, body{
     height: 100%;
 }
 
-input{
-    background-color: inherit;
-}
-
 section{
     width: 100%;
     height: 100%;
@@ -26,8 +22,25 @@ section{
 .box{
     height: 20rem;
     width: 20rem;
-    background-color: grey;
     display: flex;
     flex-direction: column;
+}
+
+.heading1{
     text-align: center;
 }
+
+.btn{
+    background-color: grey;
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
