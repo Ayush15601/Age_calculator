@@ -36,11 +36,19 @@ section{
     row-gap: 1rem
 }
 
+input{
+    border: 2px solid black;
+    width: 18rem;
+    height: 2rem;
+}
+
 .btn{
     background-color: grey;
     cursor: pointer;
-    width: 18rem;
-    height: 2rem;
+}
+
+.box p:nth-of-type(2){
+    text-align: center;
 }
 
 
